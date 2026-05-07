@@ -1,6 +1,8 @@
 # 💫 About Me
 
-Full Stack engineer by day 💻<br>Indie builder by night ⚙️<br>AI enthusiast 🤖<br><br>Check out what I’m building:<br>- <https://travel-guide.gknguyen.com>
+Full Stack engineer by day 💻<br>Indie builder by night ⚙️<br>AI enthusiast 🤖<br><br>Check out what I’m building:
+- <https://travel-guide.gknguyen.com>
+- <https://dynamic-qr-code.gknguyen.com>
 
 # 🌐 Socials
 
