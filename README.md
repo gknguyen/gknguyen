@@ -1,9 +1,9 @@
 # 💫 About Me
 
 Full Stack engineer by day 💻<br>Indie builder by night ⚙️<br>AI enthusiast 🤖<br><br>Check out what I’m building:
-- <https://travel-guide.gknguyen.com>
-- <https://pocket-qr-code-tools.gknguyen.com>
-- <https://galacius.github.io>
+- [https://travel-guide.gknguyen.com](https://travel-guide.gknguyen.com?utm_source=github)
+- [https://pocket-qr-code-tools.gknguyen.com](https://pocket-qr-code-tools.gknguyen.com?utm_source=github)
+- [https://galacius.github.io](https://galacius.github.io?utm_source=github)
 
 # 🌐 Socials
 
